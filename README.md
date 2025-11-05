@@ -147,24 +147,6 @@ We welcome contributions to improve the website! Here's how you can help:
 - Keep CSS organized and well-commented
 - Ensure JavaScript functionality is accessible
 
-## 📧 Contact
-
-**Pumo Technovation**
-- **Website**: [Your Website URL]
-- **Email**: [Your Email]
-- **Phone**: [Your Phone Number]
-- **Address**: [Your Address]
-
-### Social Media
-- 📘 [Facebook](https://facebook.com/pumotechnovation)
-- 📸 [Instagram](https://instagram.com/pumotechnovation)
-- 💼 [LinkedIn](https://linkedin.com/company/pumotechnovation)
-- 📱 [WhatsApp](https://wa.me/yourphonenumber)
-- 📎 [YouTube](https://youtube.com/pumotechnovation)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
